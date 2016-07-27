@@ -1,2 +1,4 @@
 outputs/*
+!outputs/.appear
 inputs/*
+!inputs/.appear
